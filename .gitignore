@@ -1,0 +1,80 @@
+# Database data directories
+db_data/
+db-data/
+
+# Nextcloud data and user files
+nextcloud_data/
+data/
+*.db
+*.sqlite
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Dependency directories
+vendor/
+node_modules/
+composer.lock
+
+# Build and cache directories
+build/
+dist/
+.cache/
+tmp/
+
+# Log files
+*.log
+logs/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.eclipse
+.project
+.settings/
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
+*.swp
+
+# Configuration files with sensitive data
+config/config.php
+apps/*/config.php
+
+# Mac OS
+.AppleDouble
+.LSOverride
+
+# Windows
+*.lnk
+desktop.ini
+
+# Node-related
+package-lock.json
+yarn.lock
+
+# PHP-related
+.php-cs-fixer.cache
+phpunit.xml
+
+# Test coverage
+coverage/
+.coverage
+
+# IDE specific
+*.iml
+out/
+.gradle/
