@@ -54,10 +54,6 @@ Thumbs.db
 config/config.php
 apps/*/config.php
 
-# Mac OS
-.AppleDouble
-.LSOverride
-
 # Windows
 *.lnk
 desktop.ini
