@@ -45,3 +45,7 @@ volumes:
   db_data:
   nextcloud_data:
 ```
+
+# スクショ
+<img width="1919" height="994" alt="image" src="https://github.com/user-attachments/assets/cb401dc8-516e-41f9-babd-d08e8918acec" />
+
